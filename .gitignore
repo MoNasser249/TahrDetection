@@ -1,9 +1,9 @@
-# Ignore everything
+# Ignore all files
 *
 
-# But not these two folders
+# Do not ignore the .gitignore file itself
+!/.gitignore
+
+# Do not ignore the two specific folders
 !/trainYOLOV8/
 !/trainYOLOV11/
-
-# Also, do not ignore the .gitignore file itself
-!/.gitignore
