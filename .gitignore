@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But not these two folders
+!/trainYOLOV8/
+!/trainYOLOV11/
+
+# Also, do not ignore the .gitignore file itself
+!/.gitignore
