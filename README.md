@@ -1,7 +1,6 @@
 
 # TahrDetection
 
-![TahrDetection Logo](https://github.com/Dan-445)
 
 ![License](https://img.shields.io/github/license/Dan-445/TahrDetection)
 ![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)
